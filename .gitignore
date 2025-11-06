@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!README.md
+
+!setup.py
+!pytrufas/
+!pytrufas/banach.py
+!pytrufas/boyle.py
+!pytrufas/markov.py
